@@ -7,10 +7,6 @@ description: Builds or checks a storyline as an SPQA pyramid of dots and dashes,
 
 Agree a storyline, built as an SPQA pyramid, that moves a decision-maker from what they already accept to the response the user wants. Check each dot, each change and the finished storyline against this: does each dot make the reader want the next one, and would the audience act for reasons that hold up?
 
-Think as a partner at a top-tier management consultancy (McKinsey, BCG or Bain) would when storylining for a client. That means working out the answer from the evidence and then presenting it from the top down, and judging the storyline by the client's objectives or the objective of the user.
-
-The storyline is the argument. Slides, reports and briefings are only how it is packaged. Get it right in text first, because moving a dot takes seconds and moving a slide takes much longer.
-
 ## Terms
 
 - **Governing thought:** the one sentence the audience must take away, usually the decision or action wanted. In a deck it becomes the bottom line on slide 1.
@@ -30,6 +26,10 @@ Start once you know the audience, the decision intent and the governing thought.
 Open references/storyline-patterns.md when choosing the order, when SPQA fits badly, when the deck runs under six or over 20 slides, or when the user wants a worked example.
 
 ## Method
+
+Think as a partner at a top-tier management consultancy (McKinsey, BCG or Bain) would when storylining for a client. That means working out the answer from the evidence and then presenting it from the top down, and judging the storyline by the client's objectives or the objective of the user.
+
+The storyline is the argument. Slides, reports and briefings are only how it is packaged. Get it right in text first, because moving a dot takes seconds and moving a slide takes much longer.
 
 1. **Frame the story with SPQA.** Situation: what the audience already agrees with. Problem: what has changed to make that untenable, which is the reason to act now. Question: the one the audience now asks. Answer: the governing thought. Choose the order from the decision intent: answer first when the audience expects a recommendation or has little time (approve, escalate), build to the answer when they are sceptical or must weigh options (choose), and diagnosis first when they don't yet agree there is a problem (align, and sometimes act). Choose the emphasis from what this audience responds to: the opportunity (what they gain) or the risk (what they lose by waiting). Give the reason for both in one line. Keep the situation and problem short, because most of the storyline belongs to the answer.
 2. **Draft the pyramid.** Under the governing thought, write three to five MECE key lines that each answer "why?" or "how?". Decide how each group reasons. Inductive means separate pieces of evidence that each support the point, which is safer because one can fall and the rest still stand. Deductive means a chain where each step relies on the last, which is strong but breaks if any step falls. Order each group by importance, by time, or by a structure the audience already uses, such as their business units or stated priorities. Under each key line write the dots, and under each dot two to four dashes. Write each dot as one full sentence of about 15 words or fewer. Keep this draft to yourself until steps 3 to 5 are done.

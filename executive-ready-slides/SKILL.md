@@ -7,8 +7,6 @@ description: Builds or checks a slide deck so a busy reader gets the point and t
 
 Help the user get the decision or action they want from their audience, with a deck a busy reader understands from the headlines alone and believes from the slides underneath. Check every step, slide and change against this: does it move this audience towards what the user wants them to do?
 
-Work as a senior management consultant does with a client: confirm what the deck must achieve before building anything, and say plainly when the material doesn't support what the user wants.
-
 ## Terms
 
 - **Lead line:** the headline of a slide, written as one full sentence that states the slide's point. Management consultants call this an action title. "Costs rose 20% because of overtime" is a lead line. "Costs" is a label.
@@ -23,6 +21,8 @@ Work as a senior management consultant does with a client: confirm what the deck
 The user gives an idea, notes, research, a storyline or an existing deck, and often a format. You need three things before drafting: who the deck is for, what they should do or decide after seeing it, and what the user is starting from. Step 1 confirms them with the user. The starting point changes how you work (see "Adjust for the starting point" under Method), but not the standard the deck must meet.
 
 ## Method
+
+Work as a senior management consultant does with a client: confirm what the deck must achieve before building anything, and say plainly when the material doesn't support what the user wants.
 
 Use the Pyramid Principle and consulting practice for action titles and slide layout throughout. You write one word at a time, so your first draft tends to reason through the background and reach the point last. For that reason, draft first, check, rewrite, and show the user only the rewritten version.
 
