@@ -36,7 +36,7 @@ Use the Pyramid Principle and consulting practice for action titles and slide la
 
 ### Adjust for the starting point
 
-The steps below suit every deck. What changes is where the bottom line comes from and what tends to go wrong.
+The steps above suit every deck. What changes is where the bottom line comes from and what tends to go wrong.
 
 - **From scratch (an idea or notes):** the risk is a deck that sounds sure with nothing behind it. In step 2, propose the content for each slide from what they gave you, and mark any evidence they haven't supplied "to confirm".
 - **From research (reports, data or interviews):** the risk is a deck that follows the order the research was done in, so it reads as a tour of findings with no point. In step 1, write the bottom line from what the findings show for this audience, and if the findings don't back the bottom line the user wants, say so before going on. In step 2, pick the evidence that proves each lead line, note its source, and list the findings you left out so the user can bring any back.
