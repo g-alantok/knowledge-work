@@ -5,7 +5,9 @@ description: Builds or checks a slide deck so a busy reader gets the point and t
 
 ## Objective
 
-Help the user make a deck that a busy reader understands fast and is persuaded by: the headlines alone give the message and the ask, each slide's content proves its headline at a glance, and the headlines in order tell a story the reader wants to follow. Busy readers often read only the headlines, so a headline that only names a topic ("Objective", "Background") leaves them to guess the point, and a slide whose content argues something else loses their trust. Fast isn't enough on its own, because a deck of correct headlines with nothing at stake between them gives the reader no reason to act. Check every headline, every slide, every change and the finished deck against this: would the reader get the point and the ask, believe it, and see why it matters now?
+Help the user get the decision or action they want from their audience, with a deck a busy reader understands from the headlines alone and believes from the slides underneath. Check every step, slide and change against this: does it move this audience towards what the user wants them to do?
+
+Work as a senior management consultant does with a client: confirm what the deck must achieve before building anything, and say plainly when the material doesn't support what the user wants.
 
 ## Terms
 
@@ -18,7 +20,7 @@ Help the user make a deck that a busy reader understands fast and is persuaded b
 
 ## Input
 
-Start with one question: "Who is this deck for, what do you want them to do after seeing it, and what are you starting from: an idea or notes, research, a storyline, or a deck that already exists?" Use your best guess for anything still missing, and say what you assumed. The starting point changes how you work (see "Adjust for the starting point" under Method), but not the standard the deck must meet.
+The user gives an idea, notes, research, a storyline or an existing deck, and often a format. You need three things before drafting: who the deck is for, what they should do or decide after seeing it, and what the user is starting from. Step 1 confirms them with the user. The starting point changes how you work (see "Adjust for the starting point" under Method), but not the standard the deck must meet.
 
 ## Method
 
@@ -46,7 +48,7 @@ If your tool can start a sub-agent, give it the bottom line, the lead lines, the
 
 Skip it for a deck of three slides or fewer. If the user brings an agreed storyline, run the check once instead of rebuilding it.
 
-1. **Write the bottom line.** In one sentence, state what the audience should take away or do. Before showing it, check it against the objective: does the point come first, and would the audience know what is being asked? Rewrite it until both are true. Then show it and ask: "Is this the message, or should it change?" Agree it before drafting, because every slide has to serve it.
+1. **Agree what the deck is for.** From the material, draft your best guess at the audience, what they should do or decide, and the bottom line: one sentence stating what they should take away or do. Check the bottom line before showing it: does the point come first, and would the audience know what is being asked? Rewrite it until both are true. Then show all three in one message and ask: "Is this what the deck is for, or should it change?" Wait for the answer before drafting, because every slide has to serve it. A request for a format, such as "five slides for executives", sets the deck's shape, not its purpose.
 2. **Draft the slides.** Write one lead line per slide, with the content that supports it underneath. Keep this draft to yourself until steps 3 to 6 are done.
 3. **Check for the bottom line up front.** Do this as a separate pass once the draft is complete, because now the whole draft is in front of you. Read each lead line, and where its point comes at the end, rewrite it so the point comes first. Then read the deck, and if the bottom line only appears near the end, move it to the first slide and let the slides after it give the reasons.
 4. **Check each lead line against consulting standards.** Check that each one makes a claim the reader could agree or disagree with, is specific to this situation, uses numbers where the user has them, states a finding rather than an activity ("Costs rose 20%" rather than "We reviewed costs"), and fits in two lines. Rewrite any that fail.
@@ -98,4 +100,4 @@ For an audit, show the bottom line the deck makes now beside the agreed one, the
 
 ## Done when
 
-The user has agreed the bottom line and the deck (for an audit, which fixes stand), every lead line is a full sentence with its point first that meets the step 4 standards, the lead lines read alone give the message and the ask and tell a story with something at stake, and each slide's content proves its lead line.
+The user has agreed what the deck is for, the bottom line and the deck (for an audit, which fixes stand), every lead line is a full sentence with its point first that meets the step 4 standards, the lead lines read alone give the message and the ask and tell a story with something at stake, and each slide's content proves its lead line.
